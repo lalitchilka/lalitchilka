@@ -44,6 +44,10 @@
 
 <img align="left" alt="Lalit's Github Stats" src="https://github-readme-stats.lalitchilka.vercel.app/api?username=lalitchilka&show_icons=true&hide_border=true" />
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
 [twitter]: https://twitter.com/lalitchilka
 [instagram]: https://instagram.com/lalitchilka
 [linkedin]: https://www.linkedin.com/in/lalit-chilka/
