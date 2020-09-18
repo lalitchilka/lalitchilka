@@ -1,4 +1,4 @@
-### Hi there, I'm Lalit 👋
+# Hi there, I'm Lalit 🙋‍♂️
 
 ## I'm a Developer and I like learning new things!
 
@@ -8,11 +8,11 @@
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love cycling and running.
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![Spotify](https://novatorem.lalitchilka.vercel.app/api/spotify)](https://open.spotify.com/user/31i6w5se43qiaiv74epz7je3ogqi)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,7 +20,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -40,20 +40,9 @@
 
 <br />
 <br />
+<br />
 
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-</details>
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Lalit's Github Stats" src="https://github-readme-stats.lalitchilka.vercel.app/api?username=lalitchilka&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Lalit's Github Stats" src="https://github-readme-stats.lalitchilka.vercel.app/api?username=lalitchilka&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/lalitchilka
 [instagram]: https://instagram.com/lalitchilka
