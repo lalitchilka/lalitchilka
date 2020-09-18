@@ -45,12 +45,6 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//lalitchilka/activity-box/pull/1) in [lalitchilka/activity-box](https://github.com//lalitchilka/activity-box)
-2. ❗️ Opened issue [#3](https://github.com//lalitchilka/lalitchilka/issues/3) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
-3. ❗️ Closed issue [#2](https://github.com//lalitchilka/lalitchilka/issues/2) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
-4. 🗣 Commented on [#2](https://github.com//lalitchilka/lalitchilka/issues/2) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
-5. ❗️ Closed issue [#1](https://github.com//lalitchilka/lalitchilka/issues/1) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
-<!--END_SECTION:activity-->
 
 <br />
 <br />
