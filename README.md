@@ -45,6 +45,12 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3](https://github.com//lalitchilka/lalitchilka/issues/3) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
+2. ❗️ Closed issue [#2](https://github.com//lalitchilka/lalitchilka/issues/2) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
+3. 🗣 Commented on [#2](https://github.com//lalitchilka/lalitchilka/issues/2) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
+4. ❗️ Closed issue [#1](https://github.com//lalitchilka/lalitchilka/issues/1) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
+5. 🗣 Commented on [#1](https://github.com//lalitchilka/lalitchilka/issues/1) in [lalitchilka/lalitchilka](https://github.com//lalitchilka/lalitchilka)
+<!--END_SECTION:activity-->
 
 <br />
 <br />
