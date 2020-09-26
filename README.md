@@ -46,6 +46,11 @@
 
 <!--START_SECTION:activity-->
 
+## Granular Time Spent
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br />
 <br />
 <br />
