@@ -45,6 +45,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#8](https://github.com/lalitchilka/lalitchilka/issues/8) in [lalitchilka/lalitchilka](https://github.com/lalitchilka/lalitchilka)
+2. ❗️ Opened issue [#8](https://github.com/lalitchilka/lalitchilka/issues/8) in [lalitchilka/lalitchilka](https://github.com/lalitchilka/lalitchilka)
+<!--END_SECTION:activity-->
 
 ## Granular Time Spent
 
