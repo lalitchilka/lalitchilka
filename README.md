@@ -95,16 +95,16 @@ Sunday       1 commits      █████████████████�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     20 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JavaDemo                 20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +125,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lalitchilka/lalitchilka/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
 
 <br />
