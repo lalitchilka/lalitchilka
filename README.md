@@ -52,7 +52,7 @@
 ## Granular Time Spent
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -125,7 +125,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lalitchilka/lalitchilka/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 01:29:55 UTC
+ Last Updated on 02/04/2022 01:23:29 UTC
 <!--END_SECTION:waka-->
 
 <br />
