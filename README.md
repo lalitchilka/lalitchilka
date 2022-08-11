@@ -52,7 +52,7 @@
 ## Granular Time Spent
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -127,7 +127,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lalitchilka/lalitchilka/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2022 01:59:23 UTC
+ Last Updated on 11/08/2022 01:48:02 UTC
 <!--END_SECTION:waka-->
 
 <br />
