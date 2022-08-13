@@ -60,7 +60,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 4.3 kB Used in GitHub's Storage 
+> 📦 4.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,7 +127,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lalitchilka/lalitchilka/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/08/2022 01:48:02 UTC
+ Last Updated on 13/08/2022 01:46:03 UTC
 <!--END_SECTION:waka-->
 
 <br />
