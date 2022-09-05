@@ -52,7 +52,7 @@
 ## Granular Time Spent
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,48 +68,6 @@
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    58 commits     █████████████░░░░░░░░░░░░   54.21% 
-🌃 Evening    39 commits     █████████░░░░░░░░░░░░░░░░   36.45% 
-🌙 Night      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.35%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       23 commits     █████░░░░░░░░░░░░░░░░░░░░   21.5% 
-Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Wednesday    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.35% 
-Thursday     17 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
-Friday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Saturday     9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-Sunday       17 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -127,7 +85,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lalitchilka/lalitchilka/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 02:06:48 UTC
+ Last Updated on 05/09/2022 02:18:52 UTC
 <!--END_SECTION:waka-->
 
 <br />
