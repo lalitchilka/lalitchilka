@@ -2,7 +2,7 @@
 
 ## I'm a Developer and I like learning new things!
 
-- 🔭 I’m currently working as a Senior Software Engineer at Nik.
+- 🔭 I’m currently working as a Senior Software Engineer at Nike.
 - ⚡ Fun fact: I love cycling and running.
 
 ## Spotify Playing 🎧
