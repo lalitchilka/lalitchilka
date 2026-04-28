@@ -2,10 +2,7 @@
 
 ## I'm a Developer and I like learning new things!
 
-- 🔭 I’m currently working as a Software Engineer at Cerence.
-- 🌱 I’m currently learning Spring 5.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute to Open Source projects.
+- 🔭 I’m currently working as a Senior Software Engineer at Nik.
 - ⚡ Fun fact: I love cycling and running.
 
 ## Spotify Playing 🎧
